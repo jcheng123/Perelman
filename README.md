@@ -1,2 +1,2 @@
 # Perelman
-Maxtrix computation
+Matrix computation
